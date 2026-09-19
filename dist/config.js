@@ -1,7 +1,7 @@
 // Edit this file to replace text, video and links without changing the design.
 window.PAGE_CONTENT = {
- logoUrl: 'real-logo.webp',',
- logoAlt: 'Millionaire Mastermind',',
+ logoUrl: 'real-logo.webp',
+ logoAlt: 'Millionaire Mastermind',
  headlineOne: 'We Hand-Hold Coaches & Trainers',
  headlineTwo: 'To Make 10 Lakh/Month With Proven System',
  guarantee: 'Money-Back Guarantee: 100% Risk-Free',
