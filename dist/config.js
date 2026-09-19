@@ -1,6 +1,6 @@
 // Edit this file to replace text, video and links without changing the design.
 window.PAGE_CONTENT = {
- logoUrl: 'real-logo.webp',',
+ logoUrl: 'whitestone-logo.jpeg',',
  logoAlt: 'Millionaire Conversion Matrix',',
  headlineOne: 'We Hand-Hold Coaches & Trainers',
  headlineTwo: 'To Make 10 Lakh/Month With Proven System',
